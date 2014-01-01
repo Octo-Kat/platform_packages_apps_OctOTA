@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *=========================================================================
+ *
+ *  PROJECT:  OctOS
+ *  LICENSE   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ *
+ *  AUTHORS:     fronti90, mnazim, tchaari, kufikugel
+ *  DESCRIPTION: OctOTA keeps our rom up to date
+ *
+ *=========================================================================
+ *
+-->
+
+<WakefulIntentService listener="com.oct.ota.updater.UpdateListener" />

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *=========================================================================
+ *
+ *  PROJECT:  OctOS
+ *  LICENSE   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ *
+ *  AUTHORS:     fronti90, mnazim, tchaari, kufikugel
+ *  DESCRIPTION: OctOTA keeps our rom up to date
+ *
+ *=========================================================================
+ *
+-->
+
+<resources>
+    <style name="OctOTABaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- OctOTA theme. -->
+    <style name="OctOTA" parent="OctOTABaseTheme">
+         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+ </resources>

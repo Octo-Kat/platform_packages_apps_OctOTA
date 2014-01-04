@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- * Copyright (C) 2013 OctOS
+ * Copyright (C) 2014 OctOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -71,10 +71,10 @@
     <string name="changelog_url">http://www.site.com/changelog.htm</string>
     <string name="faq_url">http://www.site.com/faq.htm</string>
     <string name="news_url">http://facebook.com/Team-OctOs</string>
-    <string name="gapps_url">http://www.site.com/gapps.htm</string>
+    <string name="gapps_url">http://www.teamoctos.com/octos-gapps/</string>
 
     <!-- OctOTA update checker -->
-    <string name="xml_url">http://kevchu1testing@greenromproject.info/web/xml/ota.xml</string>
+    <string name="xml_url">http://teamoctos.com/ota.xml</string>
     <string name="confirm_message">\nROM Update available!\n\nRead changelog carefully and Download OctOS rom update\n</string>
     <string name="notification_message">OctOS ROM update available</string>
     <string name="noConnection">\nNo data connection available.\nPlease turn on to check for updates.\n</string>

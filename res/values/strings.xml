@@ -39,6 +39,7 @@
     <string name="about_title">About</string>
     <string name="update_interval_title">Update interval</string>
     <string name="update_interval_summary">Set update check interval</string>
+    <string name="update_interval_week">Every week</string>
     <string name="update_interval_day">Every 24 hours</string>
     <string name="update_interval_half_day">Every 12 hours</string>
     <string name="update_interval_hour">Every hour</string>
@@ -68,8 +69,8 @@
     <string name="short_cut_download_gapps_title">Download gapps</string>
     <string name="short_cut_download_gapps_summary">Download OctOS addon packages</string>
 
-    <string name="changelog_url">http://www.site.com/changelog.htm</string>
-    <string name="faq_url">http://www.site.com/faq.htm</string>
+    <string name="changelog_url">http://www.teamoctos.com/changelog/</string>
+    <string name="faq_url">http://www.teamoctos.com/faq/</string>
     <string name="news_url">http://facebook.com/Team-OctOs</string>
     <string name="gapps_url">http://www.teamoctos.com/octos-gapps/</string>
 
@@ -80,14 +81,14 @@
     <string name="noConnection">\nNo data connection available.\nPlease turn on to check for updates.\n</string>
 
     <!-- OctOTA About -->
-    <string name="about_home_url"><a href="http://facebook.com/Team-OctOs">facebook.com</a></string>
+    <string name="about_home_url"><a href="http://www.teamoctos.com/the-team/">About Us</a></string>
     <string name="about_oct_ota">OctOTA keeps you always up to date\non your rom and gapps</string>
     <string name="about_copyright">\u00A9 Copyright OctOS 2014</string>
-    <string name="about_version">OctOTA 1.0</string>
-    <string name="about_contact"><a href="teamoctos@gmail.com">Contact us</a></string>
+    <string name="about_version">OctOTA 1.01</string>
+    <string name="about_contact"><a href="mailto:teamoctos@gmail.com">Contact us</a></string>
     <string name="about_contact_text">Tell us what you think\nor let us know about a bug or problem</string>
     <string name="about_license">Open source licenses</string>
     <string name="about_license_text">OctOTA app:</string>
-    <string name="about_license_url"><a href="http://www.site.com/license.htm">gpl(2)</a></string>
+    <string name="about_license_url"><a href="http://teamoctos.com/license">gpl(2)</a></string>
 
 </resources>

@@ -37,13 +37,12 @@
     <!-- OctOTA settings -->
     <string name="settings_title">OctOTA Settings</string>
     <string name="about_title">About</string>
-    <string name="update_interval_title">Update interval</string>
-    <string name="update_interval_summary">Set update check interval</string>
-    <string name="update_interval_week">Every week</string>
-    <string name="update_interval_day">Every 24 hours</string>
+    <string name="update_interval_title">Update Interval</string>
+    <string name="update_interval_summary">How Often to Check for Updates?</string>
+    <string name="update_interval_week">Every Week</string>
+    <string name="update_interval_day">Every Day</string>
     <string name="update_interval_half_day">Every 12 hours</string>
-    <string name="update_interval_hour">Every hour</string>
-    <string name="update_interval_disable">Disable</string>
+    <string name="update_interval_disable">Disabled</string>
 
     <!-- OctOTA error messages -->
     <string name="system_prop_error">Cannot read system properties</string>

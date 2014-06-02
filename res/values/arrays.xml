@@ -18,7 +18,6 @@
         <item>@string/update_interval_week</item>
         <item>@string/update_interval_day</item>
         <item>@string/update_interval_half_day</item>
-        <item>@string/update_interval_hour</item>
         <item>@string/update_interval_disable</item>
     </string-array>
 
@@ -27,7 +26,6 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
-        <item>4</item>
     </string-array>
 
 </resources>

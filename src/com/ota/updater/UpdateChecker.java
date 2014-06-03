@@ -102,7 +102,7 @@ public class UpdateChecker extends AsyncTask<Context, Integer, String> {
             String strLine;
             while ((strLine = br.readLine()) != null) {
                 String[] line = strLine.split("=");
-                if (line[0].equals("ro.product.device")) {
+                if (line[0].equals("ro.oct.device")) {
                     strDevice = line[1].trim();
                 } else if (line[0].equals("ro.modversion")) {
                     octCurVer = line[1].trim();

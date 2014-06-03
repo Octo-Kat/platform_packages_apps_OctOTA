@@ -145,11 +145,11 @@ public class OctOTA extends Activity implements OnSharedPreferenceChangeListener
             String strLine;
             while ((strLine = br.readLine()) != null) {
                 String[] line = strLine.split("=");
-                if (line[0].equals("ro.product.device")) {
+                if (line[0].equals("ro.oct.device")) {
                     mStrCodename = line[1];
                 } else if (line[0].equals("oct.ota.version")) {
                     mStrCurVer = line[1];
-                } else if (line[0].equals("ro.product.model")) {
+                } else if (line[0].equals("ro.product.name")) {
                     mStrDevice = line[1];
                 } else if (line[0].equals("ro.modversion")) {
                     mStrCurFile = line[1];

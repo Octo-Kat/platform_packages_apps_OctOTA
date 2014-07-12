@@ -76,7 +76,7 @@ public class GooUpdater extends Updater {
 
     private void searchGoo() {
         mScanning = true;
-        new URLStringReader(this).execute("http://probam.net/api/?device=" + getDevice());
+        new URLStringReader(this).execute("http://spawnpool.net/api/?device=" + getDevice());
 	    //Log.i(DEBUG_TAG, "http://probam.net/api/?device=" + getDevice());
     }
 
